@@ -1,0 +1,21 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.box{
+	border: 1px solid gray;
+	width: 360px;
+	height: 70px;
+	padding-top: 360px;
+	margin: 100px auto;
+	background: url(../img/01big.jpg) no-repeat;
+	overflow: hidden;
+	}
+.box ul {
+		list-style: none;
+		border-top: 1px solid gray;
+	}
+.box ul li{
+	float: left;
+	cursor: pointer;
+}
